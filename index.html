@@ -1,41 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>{{ settings.metaTitle }}</title>
-    
-    {{> head }}
-    
-    <!--- THEMES: in settings.json change 'glitch' to 'gallery', 'menu', or any other theme in the layout/themes folder --->
-    <link rel="stylesheet" type="text/css" href="/styles/themes/{{settings.theme}}.css" />
-  </head>
-  <body>
-    <main>
-      <div class="wrapper">
-        <div class="content">
-          
-          {{> avatar }} 
-          {{> name }}
+	<head>
+		<title>{{ settings.metaTitle }}</title>
 
-          <!--- NEXT STEPS: Want to add a bio or some text? Just add a <p> here:
+		{{> head }}
+
+		<!--- THEMES: in settings.json change 'glitch' to 'gallery', 'menu', or any other theme in the layout/themes folder --->
+		<link
+			rel="stylesheet"
+			type="text/css"
+			href="/styles/themes/{{settings.theme}}.css"
+		/>
+	</head>
+	<body>
+		<main>
+			<div class="wrapper">
+				<div class="content">
+					{{> avatar }} {{> name }}
+
+					<p>
+						Starting out as a bedroom recording project between Joel and Kyle
+						after a hiatus from playing in a previous band, Sumos play scuzz-pop
+						tunes with a 90s American indie rock influence.
+					</p>
+					<p>
+						Taking their name from the Japanese wrestling phenomenon, they
+						became a 4 piece band at the end of 2019 adding friend Andy on drums
+						and Kyle's sister Siobhan on bass.
+					</p>
+					<p>
+						They released their home recorded first EP Weird Summer in April
+						2020.
+					</p>
+
+					<!--- NEXT STEPS: Want to add a bio or some text? Just add a <p> here:
           <p>
             Put anything you like here!
           </p>
           --->
 
-          <!--- NEXT STEPS: Easy, responsive YouTube/iframe embeds? We've got a helper for that:
+					<!--- NEXT STEPS: Easy, responsive YouTube/iframe embeds? We've got a helper for that:
           <div class="video-wrapper__16-9">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/GSP0b85BKmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           --->
 
-          {{> links }} 
-          
-        </div>
-      </div>
+					{{> links }}
+				</div>
+			</div>
 
-      {{> social }}
-      
-    
-    </main>
-  </body>
+			{{> social }}
+		</main>
+	</body>
 </html>
