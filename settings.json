@@ -3,7 +3,7 @@
   "metaDescription": "My meta description.",
   "name": "Glitch in Bio",
   "theme": "glitch",
-  "avatarImage": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
+  "avatarImage": "https://cdn.glitch.global/b58e7d4d-0e72-49b2-8af5-9a6bd25fa77c/sumos.jpg?v=1659462103384",
   "links": [
     {
       "url": "https://glitch.new/links",
@@ -23,29 +23,28 @@
     }
   ],
   "social": {
-    "glitch": "https://glitch.com/",
-    "spotify": "",
+    "spotify": "https://open.spotify.com/artist/6gDSfJoJadirYQZ2m0Np2x?si=ds7uhFpFRWmkjwfQznNw_g&dl_branch=1&nd=1",
     "substack": "",
-    "dev": "https://dev.to/glitch",
-    "facebook": "",
-    "github": "https://github.com/glitchdotcom",
+    "dev": "",
+    "facebook": "https://www.facebook.com/Sumosmusic/?ltclid=",
+    "github": "",
     "gitlab": "",
     "hashnode": "",
-    "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/fog-creek-software",
+    "instagram": "https://www.instagram.com/sumosmusic/?ltclid=",
+    "linkedin": "",
     "medium": "",
     "patreon": "",
     "pinterest": "",
-    "twitter": "https://twitter.com/glitch",
-    "youtube": "https://www.youtube.com/c/GlitchDotCom",
+    "twitter": "https://twitter.com/sumosmusic/?ltclid=",
+    "youtube": "",
     "twitch": "",
     "tiktok": "",
     "podcast": "",
-    "soundcloud": "",
-    "bandcamp": "",
+    "soundcloud": "https://soundcloud.com/sumosmusic/?ltclid=",
+    "bandcamp": "https://sumos.bandcamp.com/?ltclid=",
     "mastodon": "",
     "stackoverflow": "",
     "kofi": "",
-    "email": "support@glitch.com"
+    "email": "bandsumos@gmail.com"
   }
 }
