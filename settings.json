@@ -1,25 +1,40 @@
 {
-  "metaTitle": "Glitch in Bio!",
-  "metaDescription": "My meta description.",
-  "name": "Glitch in Bio",
+  "metaTitle": "SUMOS",
+  "metaDescription": "Links and stuff.",
+  "name": "SUMOS",
   "theme": "glitch",
   "avatarImage": "https://cdn.glitch.global/b58e7d4d-0e72-49b2-8af5-9a6bd25fa77c/sumos.jpg?v=1659462103384",
   "links": [
     {
-      "url": "https://glitch.new/links",
-      "text": "Remix! Have your own Glitch-in-bio running in seconds.",
-      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
-      "altText": "Glitch blue generative art"
+      "url": "https://open.spotify.com/artist/6gDSfJoJadirYQZ2m0Np2x?si=ds7uhFpFRWmkjwfQznNw_g&dl_branch=1&nd=1",
+      "text": "SPOTIFY",
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
+      "altText": "Spotify"
     },
     {
-      "url": "https://glitch.com/edit/#!/glitch-in-bio?path=README.md",
-      "text": "View source! Check out the code to see how it's built.",
+      "url": "https://sumos.bandcamp.com/?ltclid=",
+      "text": "BANDCAMP",
       "img": ""
     },
     {
-      "url": "https://www.glitch.com/",
-      "text": "Built by and on Glitch, the easiest way to build the web.",
-      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "url": "https://soundcloud.com/sumosmusic/?ltclid=",
+      "text": "SOUNDCLOUD",
+      "img": ""
+    },
+    {
+      "url": "https://www.instagram.com/sumosmusic/?ltclid=",
+      "text": "INSTAGRAM",
+      "img": ""
+    },
+    {
+      "url": "https://www.instagram.com/sumosmusic/?ltclid=",
+      "text": "TWITTER",
+      "img": ""
+    },
+    {
+      "url": "https://www.facebook.com/Sumosmusic/?ltclid=",
+      "text": "FACEBOOK",
+      "img": ""
     }
   ],
   "social": {
@@ -35,7 +50,7 @@
     "medium": "",
     "patreon": "",
     "pinterest": "",
-    "twitter": "https://twitter.com/sumosmusic/?ltclid=",
+    "twitter": "https://www.instagram.com/sumosmusic/?ltclid=",
     "youtube": "",
     "twitch": "",
     "tiktok": "",
