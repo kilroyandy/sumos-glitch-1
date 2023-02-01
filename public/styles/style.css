@@ -159,6 +159,10 @@ h1 {
   justify-content: center;
 }
 
+h2 {
+      font-size: 2rem;
+}
+
 ul>li,
 ol>li {
   margin-bottom: 0.75rem;
