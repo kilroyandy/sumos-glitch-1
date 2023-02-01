@@ -239,6 +239,7 @@ ul.link-list li a {
   align-content: center;
   justify-content: flex-start;
   align-items: center;
+  flex-direction: column;
 }
 
 ul.link-list li a:link,

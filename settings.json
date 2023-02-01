@@ -7,7 +7,8 @@
   "gigs": [
     {
       "url": "https://thepeerhat.co.uk/event/hugs-of-the-sky-vert-de-gris-sumos/",
-      "text": "The Peer Hat, Manchester // 22nd Feb 2023",
+      "text": "The Peer Hat // Manchester",
+      "date" : "22nd Feb 2023",
       "img": "",
       "altText": "Peer Hat, Manchester. 22nd Feb 2023"
     }
