@@ -22,7 +22,7 @@
       "altText": "Spotify"
     },
     {
-      "url": "https://sumos.bandcamp.com/?ltclid=",
+      "url": "https://sumos.bandcamp.com/",
       "text": "BANDCAMP",
       "img": ""
     },
@@ -32,7 +32,7 @@
       "img": ""
     },
     {
-      "url": "https://www.instagram.com/sumosmusic/?ltclid=",
+      "url": "https://www.instagram.com/sumosmusic/",
       "text": "INSTAGRAM",
       "img": ""
     },
@@ -40,22 +40,17 @@
       "url": "https://twitter.com/sumosmusic",
       "text": "TWITTER",
       "img": ""
-    },
-    {
-      "url": "https://www.facebook.com/Sumosmusic/?ltclid=",
-      "text": "FACEBOOK",
-      "img": ""
     }
   ],
   "social": {
     "spotify": "https://open.spotify.com/artist/6gDSfJoJadirYQZ2m0Np2x?si=ds7uhFpFRWmkjwfQznNw_g&dl_branch=1&nd=1",
     "substack": "",
     "dev": "",
-    "facebook": "https://www.facebook.com/Sumosmusic/?ltclid=",
+    "facebook": "",
     "github": "",
     "gitlab": "",
     "hashnode": "",
-    "instagram": "https://www.instagram.com/sumosmusic/?ltclid=",
+    "instagram": "https://www.instagram.com/sumosmusic/",
     "linkedin": "",
     "medium": "",
     "patreon": "",
@@ -66,7 +61,7 @@
     "tiktok": "",
     "podcast": "",
     "soundcloud": "https://on.soundcloud.com/Dku4g",
-    "bandcamp": "https://sumos.bandcamp.com/?ltclid=",
+    "bandcamp": "https://sumos.bandcamp.com/",
     "mastodon": "",
     "stackoverflow": "",
     "kofi": "",
