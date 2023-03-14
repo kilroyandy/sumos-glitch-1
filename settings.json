@@ -16,20 +16,15 @@
   ],
   "links": [
     {
-      "url": "https://open.spotify.com/artist/6gDSfJoJadirYQZ2m0Np2x?si=ds7uhFpFRWmkjwfQznNw_g&dl_branch=1&nd=1",
-      "text": "SPOTIFY",
+      "url": "https://sumos.bandcamp.com/",
+      "text": "BUY OUR MUSIC",
+      "img": ""
+    },
+    {
+      "url": "https://ffm.to/sumosfindingaway",
+      "text": "STREAMING SERVICES",
       "img": "",
       "altText": "Spotify"
-    },
-    {
-      "url": "https://sumos.bandcamp.com/",
-      "text": "BANDCAMP",
-      "img": ""
-    },
-    {
-      "url": "https://on.soundcloud.com/Dku4g",
-      "text": "SOUNDCLOUD",
-      "img": ""
     },
     {
       "url": "https://www.instagram.com/sumosmusic/",
