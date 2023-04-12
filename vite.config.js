@@ -5,7 +5,7 @@ import handlebars from "@glitchdotcom/vite-plugin-handlebars";
 
 // https://vitejs.dev/config/
 export default defineConfig(async ({ command, mode }) => {
-  return {
+	return {
 		plugins: [
 			handlebars({
 				partialDirectory: resolve(__dirname, "layout"),
@@ -22,8 +22,8 @@ export default defineConfig(async ({ command, mode }) => {
 			rollupOptions: {
 				input: {
 					main: "./index.html",
-					reviews: "./reviews.html"
-					
+					reviews: ".reviews/index.html",
+
 					// ...
 					// List all files you want in your build
 				},
