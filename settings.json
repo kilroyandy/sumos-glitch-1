@@ -1,5 +1,6 @@
 {
   "metaTitle": "SUMOS",
+  "reviewTitle": "REVIEWS",
   "metaDescription": "Links and stuff.",
   "name": "SUMOS",
   "theme": "sumos",
@@ -8,6 +9,16 @@
     {
       "url": "https://thepeerhat.co.uk/event/hugs-of-the-sky-vert-de-gris-sumos/",
       "text": "The Peer Hat // Manchester",
+      "date" : "22nd Feb 2023",
+      "img": "",
+      "altText": "Peer Hat, Manchester. 22nd Feb 2023"
+    }
+  
+  ],
+  "press": [
+    {
+      "url": "https://sumos.band/reviews/",
+      "text": "Reviews",
       "date" : "22nd Feb 2023",
       "img": "",
       "altText": "Peer Hat, Manchester. 22nd Feb 2023"
