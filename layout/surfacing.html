@@ -1,7 +1,7 @@
 <h2>Press</h2>
-{{#if settings.findingaway}}
+{{#if settings.press}}
 <ul class="link-list">
-	{{#each settings.findingaway}}
+	{{#each settings.press}}
 	<!--we use a helper defined in vite.config.js to give the li a class name based on the url-->
 	<li class="{{hostasclass  this.url }}">
 		<a href="{{ this.url }}"

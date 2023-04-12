@@ -17,11 +17,49 @@
   ],
   "press": [
     {
-      "url": "https://test.sumos.band/reviews.html",
+      "url": "https://test.sumos.band/reviews",
       "text": "Reviews",
-      "date" : "22nd Feb 2023",
+      "date" : "",
       "img": "",
-      "altText": "Peer Hat, Manchester. 22nd Feb 2023"
+      "altText": ""
+    }
+  
+  ],
+  "findingaway": [
+    {
+      "url": "https://austintownhall.com/2023/03/14/sumos-announce-surfacing/",
+      "text": "Austin Town Hall",
+      "date" : "",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://www.nodistancerecords.co.uk/post/single-review-finding-a-way-by-sumos",
+      "text": "No Distance Records",
+      "date" : "",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://www.ravensingstheblues.com/sumos-finding-a-way/",
+      "text": "Raven Sings The Blues",
+      "date" : "",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://recordsilike.co.uk/2023/03/15/sumos-finding-a-way/",
+      "text": "Records I Like",
+      "date" : "",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://whenyoumotoraway.blogspot.com/2023/03/finding-way-by-sumos.html",
+      "text": "When You Motor Away",
+      "date" : "",
+      "img": "",
+      "altText": ""
     }
   
   ],
