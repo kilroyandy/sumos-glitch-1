@@ -22,7 +22,7 @@ export default defineConfig(async ({ command, mode }) => {
 			rollupOptions: {
 				input: {
 					main: "./index.html",
-					reviews: ".reviews/index.html",
+					reviews: "./reviews/index.html",
 
 					// ...
 					// List all files you want in your build
