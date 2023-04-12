@@ -14,7 +14,8 @@
 	<li class="{{hostasclass  this.url }}">
 		<a href="{{ this.url }}"
 			>{{#if this.img }}<img src="{{ this.img }}" alt="{{this.altText}}" />{{/if
-			}}<span>{{ this.text }}</span><span>{{ this.date }}</span></a
+			}}<span>{{ this.text }}</span
+			><span class="snippet">{{ this.snippet }}</span></a
 		>
 	</li>
 	{{/each}}
