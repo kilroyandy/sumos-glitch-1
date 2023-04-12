@@ -1,0 +1,23 @@
+<h3>Finding A Way</h3>
+<div class="avatar-container">
+	<img
+		class="avatar"
+		src="/public/img/findingaway.png"
+		alt="Finding A Way single image"
+	/>
+</div>
+
+{{#if settings.findingaway}}
+<ul class="link-list">
+	{{#each settings.findingaway}}
+	<!--we use a helper defined in vite.config.js to give the li a class name based on the url-->
+	<li class="{{hostasclass  this.url }}">
+		<a href="{{ this.url }}"
+			>{{#if this.img }}<img src="{{ this.img }}" alt="{{this.altText}}" />{{/if
+			}}<span>{{ this.text }}</span
+			><span class="snippet">{{ this.snippet }}</span></a
+		>
+	</li>
+	{{/each}}
+</ul>
+{{/if}}

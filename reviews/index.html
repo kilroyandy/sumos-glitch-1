@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>{{ settings.metaTitle }}</title>
+		<title>{{ settings.reviewTitle }}</title>
 
 		{{> head }}
 
@@ -16,25 +16,25 @@
 		<main>
 			<div class="wrapper">
 				<div class="content">
-					{{> avatar }} {{> name }}
-
 					<!--- NEXT STEPS: Want to add a bio or some text?   Just add a <p> here:
           <p>
             Put anything you like here!
           </p>
+		  
           --->
+					<h1>Reviews</h1>
+					<h2>Singles</h2>
+					{{> findingaway}}
 
 					<!--- NEXT STEPS: Easy, responsive YouTube/iframe embeds? We've got a helper for that:
           <div class="video-wrapper__16-9">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/GSP0b85BKmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           --->
-
-					{{> releases}} {{> gigs }} {{> press }} {{> links }} {{> bio}}
 				</div>
 			</div>
 
-			{{> social }}
+			<a href="https://sumos.band"><h2>HOME</h2></a>
 		</main>
 	</body>
 </html>

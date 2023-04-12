@@ -1,0 +1,14 @@
+<h2>Press</h2>
+{{#if settings.press}}
+<ul class="link-list">
+	{{#each settings.press}}
+	<!--we use a helper defined in vite.config.js to give the li a class name based on the url-->
+	<li class="{{hostasclass  this.url }}">
+		<a href="{{ this.url }}"
+			>{{#if this.img }}<img src="{{ this.img }}" alt="{{this.altText}}" />{{/if
+			}}<span>{{ this.text }}</span><span>{{ this.date }}</span></a
+		>
+	</li>
+	{{/each}}
+</ul>
+{{/if}}
