@@ -70,9 +70,15 @@
       "img": ""
     },
     {
-      "url": "https://ffm.to/sumosfindingaway",
-      "text": "STREAMING LINKS",
+      "url": "https://ffm.to/sumossmalltalk",
+      "text": "STREAM `SMALL TALK`",
       "img": "",
+      "altText": "Spotify"
+    },
+    {
+      "url": "https://ffm.to/sumosfindingaway",
+      "text": "STREAM `FINDING A WAY`",
+      "img": "/img/findingaway.png",
       "altText": "Spotify"
     },
     {
