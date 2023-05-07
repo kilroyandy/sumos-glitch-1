@@ -1,12 +1,17 @@
-<h2>Press</h2>
-{{#if settings.press}}
+<h3>Surfacing</h3>
+<div class="avatar-container">
+	<img class="avatar" src="/img/surfacing.jpg" alt="Surfacing Image" />
+</div>
+
+{{#if settings.surfacingreview}}
 <ul class="link-list">
-	{{#each settings.press}}
+	{{#each settings.surfacingreview}}
 	<!--we use a helper defined in vite.config.js to give the li a class name based on the url-->
 	<li class="{{hostasclass  this.url }}">
 		<a href="{{ this.url }}"
 			>{{#if this.img }}<img src="{{ this.img }}" alt="{{this.altText}}" />{{/if
-			}}<span>{{ this.text }}</span><span>{{ this.date }}</span></a
+			}}<span>{{ this.text }}</span
+			><span class="snippet">{{ this.snippet }}</span></a
 		>
 	</li>
 	{{/each}}

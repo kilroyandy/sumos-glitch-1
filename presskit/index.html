@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Press Kit</title>
+
+		{{> head }}
+
+		<!--- THEMES: in settings.json change 'glitch' to 'gallery', 'menu', or any other theme in the layout/themes folder --->
+		<link
+			rel="stylesheet"
+			type="text/css"
+			href="/styles/themes/{{settings.theme}}.css"
+		/>
+	</head>
+	<body>
+		<main>
+			<div class="wrapper">
+				<div class="content">
+					<!--- NEXT STEPS: Want to add a bio or some text?   Just add a <p> here:
+          <p>
+            Put anything you like here!
+          </p>
+		  
+          --->
+					<h1>Press Kit</h1>
+					<ul class="link-list">
+						<li>
+							<a class="link-list" href="https://ffm.bio/sumos" target="_blank"
+								><span>Music</span></a
+							>
+						</li>
+						<li>
+							<a
+								class="link-list"
+								href="/img/press-images/sumos-images.zip"
+								download
+								><span>Images (.zip download)</span></a
+							>
+						</li>
+						<li>
+							<a class="link-list" href="/presskit/bioblurb/index.html"
+								><span>Bio and Blurbs</span></a
+							>
+						</li>
+
+						<li>
+							<a class="link-list" href="/presskit/reviews/index.html"
+								><span>Reviews</span></a
+							>
+						</li>
+						<li>
+							<a
+								class="link-list"
+								href="https://drive.google.com/drive/folders/1_9wRfidHEIvD_BnJF5FqY5_qwHA8igk2?usp=share_link"
+								target="_blank"
+								><span>Videos (Google drive link)</span></a
+							>
+						</li>
+					</ul>
+
+					<!--- NEXT STEPS: Easy, responsive YouTube/iframe embeds? We've got a helper for that:
+          <div class="video-wrapper__16-9">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/GSP0b85BKmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          --->
+				</div>
+			</div>
+
+			<a href="https://sumos.band"><h2>HOME</h2></a>
+		</main>
+	</body>
+</html>
