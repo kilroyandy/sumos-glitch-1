@@ -25,6 +25,14 @@
     }
   
   ],
+  "surfacingreview": [
+    {
+      "url": "https://discover.ticketmaster.co.uk/music/13-albums-not-to-miss-in-may-57311",
+      "text": "Ticketmaster UK",
+      "snippet" : "'Manchester’s Sumos are in a pretty good position to deliver the album of the year, particularly for fans of the sacred tradition of Mancunian jangle.'",
+      "img": "",
+      "altText": ""
+    }],
   "findingaway": [
     {
       "url": "https://austintownhall.com/2023/03/14/sumos-announce-surfacing/",
@@ -61,7 +69,47 @@
       "img": "",
       "altText": ""
     }
+    
   
+  ],
+  "smalltalkreview": [
+    {
+      "url": "https://www.ravensingstheblues.com/sumos-small-talk/",
+      "text": "Raven Sings The Blues",
+      "snippet" : "'No matter how you box it, the single is an energetic tumble that bounds out of the speakers with a joyful itch and just a touch of melancholy tugging at its heart.'",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://austintownhall.com/2023/04/14/sumos-drop-new-single-small-talk/?utm_source=rss&utm_medium=rss&utm_campaign=sumos-drop-new-single-small-talk",
+      "text": "Austin Town Hall",
+      "snippet" : "'When the guitar notes pushed through my speakers at the start, I already began to swoon; this is the brand of indiepop that offers those crisp jangles and soothing vocals.'",
+      "img": "",
+      "altText": ""
+    }
+  ],
+    "enemiesreview": [
+    {
+      "url": "https://austintownhall.com/2023/05/04/sumos-share-enemies-single-surfacing-out-next-week/",
+      "text": "Austin Town Hall",
+      "snippet" : "'Feels like a huge rush of sugar straight to the body; it's like chugging a ton of RedBull than running about with your mates while you all don huge grins.'",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://www.ravensingstheblues.com/sumos-enemies/",
+      "text": "Raven Sings The Blues",
+      "snippet" : "'The song's strung on a sizable jangle, coming in as clear and catchy as anything in the band's bag.'",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://whenyoumotoraway.blogspot.com/2023/05/enemies-by-sumos.html",
+      "text": "When You Motor Away",
+      "snippet" : "'Quite simply, it rocks and swings with just the right balance of noise and melody.'",
+      "img": "",
+      "altText": ""
+    }
   ],
   "links": [
     {
@@ -70,16 +118,10 @@
       "img": ""
     },
     {
-      "url": "https://ffm.to/sumossmalltalk",
-      "text": "STREAM `SMALL TALK`",
+      "url": "https://ffm.bio/sumos",
+      "text": "STREAM",
       "img": "",
-      "altText": "Spotify"
-    },
-    {
-      "url": "https://ffm.to/sumosfindingaway",
-      "text": "STREAM `FINDING A WAY`",
-      "img": "/img/findingaway.png",
-      "altText": "Spotify"
+      "altText": "Stream Links"
     },
     {
       "url": "https://www.youtube.com/@sumos",
@@ -95,6 +137,11 @@
     {
       "url": "https://twitter.com/sumosmusic",
       "text": "TWITTER",
+      "img": ""
+    },
+    {
+      "url": "https://sumos.band/presskit",
+      "text": "PRESS KIT",
       "img": ""
     }
   ],
