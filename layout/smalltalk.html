@@ -7,9 +7,9 @@
 	/>
 </div>
 
-{{#if settings.surfacingreview}}
+{{#if settings.smalltalkreview}}
 <ul class="link-list">
-	{{#each settings.surfacingreview}}
+	{{#each settings.smalltalkreview}}
 	<!--we use a helper defined in vite.config.js to give the li a class name based on the url-->
 	<li class="{{hostasclass  this.url }}">
 		<a href="{{ this.url }}"
