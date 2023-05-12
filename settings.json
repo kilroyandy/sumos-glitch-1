@@ -27,12 +27,21 @@
   ],
   "surfacingreview": [
     {
-      "url": "https://discover.ticketmaster.co.uk/music/13-albums-not-to-miss-in-may-57311",
+      "url": "https://discover.ticketmaster.co.uk/music/album-of-the-week-sumos-surfacing-57449/",
       "text": "Ticketmaster UK",
-      "snippet" : "'Manchester’s Sumos are in a pretty good position to deliver the album of the year, particularly for fans of the sacred tradition of Mancunian jangle.'",
+      "snippet" : "'It's no exaggeration (even among those of us prone to hyperbole) to suggest that this might be the finest example of guitar-driven indie pop for many a year.'",
+      "img": "",
+      "altText": ""
+    },
+    {
+      "url": "https://addtowantlist.com/index.php/2023/05/12/new-album-sumos-surfacing/",
+      "text": "Add To Want List",
+      "snippet" : "'Sumos are more punchy and pacey than your average indie pop band!'",
       "img": "",
       "altText": ""
     }],
+
+
   "findingaway": [
     {
       "url": "https://austintownhall.com/2023/03/14/sumos-announce-surfacing/",
