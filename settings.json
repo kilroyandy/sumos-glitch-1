@@ -7,11 +7,28 @@
   "avatarImage": "https://cdn.glitch.global/b58e7d4d-0e72-49b2-8af5-9a6bd25fa77c/sumos1.jpg",
   "gigs": [
     {
-      "url": "https://thepeerhat.co.uk/event/hugs-of-the-sky-vert-de-gris-sumos/",
-      "text": "The Peer Hat // Manchester",
-      "date" : "22nd Feb 2023",
+      "url": "https://www.seetickets.com/event/teenage-tom-petties-guests/wharf-chambers/2748390",
+      "text": "Wharf Chambers // Leeds",
+      "lineup": "with Teenage Tom Petties, Wandering Summer, and The Planes",
+      "date" : "9th Nov 2023",
       "img": "",
-      "altText": "Peer Hat, Manchester. 22nd Feb 2023"
+      "altText": "Wharf Chambers, Leeds. 9th Nov 2023"
+    },
+    {
+      "url": "https://www.seetickets.com/event/sumos/the-peer-hat/2748639",
+      "text": "The Peer Hat // Manchester",
+      "lineup": "with Teenage Tom Petties, Dignan Porch, and The Planes",
+      "date" : "10th Nov 2023",
+      "img": "",
+      "altText": "Peer Hat, Manchester. 10th Nov 2023"
+    },
+    {
+      "url": "https://dice.fm/event/pdg9p-dignan-porch-teenage-tom-petties-sumos-11th-nov-windmill-brixton-london-tickets",
+      "text": "Windmill Brixton// London",
+      "date" : "11th Nov 2023",
+      "lineup": "with Teenage Tom Petties, Dignan Porch, and The Planes",
+      "img": "",
+      "altText": "Windmill Brixton, London. 11th Nov 2023"
     }
   
   ],
